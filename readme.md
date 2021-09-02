@@ -2,7 +2,7 @@
 
 Fitting the XRD curve with a 4-parameter Lorentzian function:
 
-<img  src="https://latex.codecogs.com/gif.image?\dpi{200}&space;f(x)=A\left[\frac{\gamma^{2}}{(x-x_{0})^{2}&plus;\gamma^2}\right]&plus;B"  title="f(x)=A\left[\frac{\gamma^{2}}{(x-x_{0})^{2}+\gamma^2}\right]+B"  />
+<img  src="https://latex.codecogs.com/gif.image?\dpi{200}&space;\bg_white&space;f(x)=A\left[\frac{\gamma^{2}}{(x-x_{0})^{2}&plus;\gamma^2}\right]&plus;B"  title="\bg_white  f(x)=A\left[\frac{\gamma^{2}}{(x-x_{0})^{2}+\gamma^2}\right]+B" />
 
 Ref.
 [Weisstein, Eric W.](https://mathworld.wolfram.com/about/author.html) "Lorentzian Function." From [*MathWorld*](https://mathworld.wolfram.com/)--A Wolfram Web Resource. 
